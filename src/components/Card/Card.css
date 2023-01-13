@@ -1,0 +1,28 @@
+.Container {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+}
+
+img {
+    height: 300px;
+}
+
+.card-stats {
+    line-height: 20px;
+}
+
+.main-card {
+    position: relative;
+}
+
+.card-badge {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background-color: white;
+    padding: 5px 7px;
+    border-radius: 2px;
+    font-weight: bold;
+}
